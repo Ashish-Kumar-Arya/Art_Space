@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="artist1">Alexander Ant</string>
+    <string name="artist2">Dids</string>
+    <string name="artist3">Eberhard GrossGasteiger</string>\
+    <string name="artist4">Europeana</string>
+    <string name="pexels">www.pexels.com</string>
+    <string name="unsplash">unsplash.com</string>
+</resources>
